@@ -15,4 +15,5 @@ The code from the top teams in the 2019 AI City Challenge (not in any paraticula
 * Team 49 DiDi Global DDashcam:
 [Track1](https://github.com/didichuxing/mtmc-vt)
 
-
+* Team 79 NCCU-UAlbany:
+[Track1 & Track2 & Track3](https://github.com/yrims/AIC19)
