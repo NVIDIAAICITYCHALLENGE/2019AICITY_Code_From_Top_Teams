@@ -7,3 +7,12 @@ The code from the top teams in the 2019 AI City Challenge (not in any paraticula
 
 * ANU:
 [Track2](https://github.com/Simon4Yan/feature_learning)
+
+* Zero_One:
+[Track1 & Track2](https://github.com/wzgwzg/AICity)
+
+* DDashcam:
+[Track1](https://github.com/didichuxing/mtmc-vt)
+
+* Team 97:
+[Track1](https://github.com/hou-yz/DeepCC-local)
