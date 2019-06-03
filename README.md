@@ -16,4 +16,16 @@ The code from the top teams in the 2019 AI City Challenge (not in any paraticula
 [Track1](https://github.com/didichuxing/mtmc-vt)
 
 * Team 79 NCCU-UAlbany:
-[Track1 & Track2 & Track3](https://github.com/yrims/AIC19)
+[Track1 & Track2](https://github.com/yrims/AIC19)
+[Track3](https://github.com/jiayi-wei/NVIDIA-AICITY19-track3-anomaly-detection)
+
+* Team 113 UCMUS:
+[Track2](https://github.com/ngocminhbui/ai19_track2_hcmus)
+[Track3](https://github.com/tuanbi97/AICityChallenge)
+
+* Team 21 UWIPL:
+[Track1](https://github.com/ipl-uw/2019-CVPR-AIC-Track-1-UWIPL)
+[Track2](https://github.com/ipl-uw/2019-CVPR-AIC-Track-2-UWIPL)
+[Track3](https://github.com/ipl-uw/2019-CVPR-AIC-Track-3-UWIPL)
+
+
