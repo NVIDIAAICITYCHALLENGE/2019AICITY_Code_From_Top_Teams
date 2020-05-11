@@ -1,31 +1,31 @@
 # 2019AICITY Code From Top Teams
 The code from the top teams in the 2019 AI City Challenge (not in any paraticular order)
 
-* Team 12 BUPT:
-[Track1 & Track2](https://github.com/he010103/Traffic-Brain)
-[Track3](https://github.com/ShuaiBai623/AI-City-Anomaly-Detection)
+## Track 1: Multi-Class Multi-Movement Vehicle Counting
+* [Baidu](https://github.com/PaddlePaddle/Research/tree/master/CV/VehicleCounting)
+* [CMU-UTS](https://github.com/Lijun-Yu/zero_virus)
+* [DiDi1](https://github.com/liwenwei123/AIC_2020_Challenge_Track-1)
+* [HCMUS](https://github.com/selab-hcmus/AI_City_2020)
+* [DCU](https://github.com/adityabansal98/AI_City_Track1_Insight-DCU)
+* [DiDi2](https://github.com/Jilliansea/DTTM-Vehicle-Counting)
 
-* Team 97 ANU:
-[Track1](https://github.com/hou-yz/DeepCC-local)
-[Track2](https://github.com/Simon4Yan/feature_learning)
+## Track 2: City-Scale Multi-Camera Vehicle Re-Identification
+* [Baidu-UTS1](https://github.com/layumi/AICIty-reID-2020)
+* [Baidu-UTS2](https://github.com/PaddlePaddle/Research/tree/master/CV/PaddleReid)
+* [RuiyanAI](https://github.com/Xiangyu-CAS/AICity2020-VOC-ReID)
+* [ZJU-Alibaba](https://github.com/heshuting555/AICITY2020_DMT_VehicleReID)
+* [IOSB](https://github.com/corner100/2020-aicitychallenge-IOSB-VeRi)
+* [USTC](https://github.com/zgcr/AICITY2020_track2_reid_BeBetter)
+* [TUE](https://github.com/xPlusUltra/vehicle_reid.git)
+* [HCMUS](https://github.com/selab-hcmus/AI_City_2020)
+* [CMUT](https://github.com/gggcy/AIC2020_ReID)
 
-* Team 59 Baidu Zero_One:
-[Track1 & Track2](https://github.com/wzgwzg/AICity)
+## Track 3: City-Scale Multi-Camera Vehicle Tracking
+* [CMU](https://github.com/KevinQian97/ELECTRICITY-MTMC)
+* [XJTU](https://github.com/GehenHe/AIC20_Alpha)
 
-* Team 49 DiDi Global DDashcam:
-[Track1](https://github.com/didichuxing/mtmc-vt)
-
-* Team 79 NCCU-UAlbany:
-[Track1 & Track2](https://github.com/yrims/AIC19)
-[Track3](https://github.com/jiayi-wei/NVIDIA-AICITY19-track3-anomaly-detection)
-
-* Team 113 UCMUS:
-[Track2](https://github.com/ngocminhbui/ai19_track2_hcmus)
-[Track3](https://github.com/tuanbi97/AICityChallenge)
-
-* Team 21 UWIPL:
-[Track1](https://github.com/ipl-uw/2019-CVPR-AIC-Track-1-UWIPL)
-[Track2](https://github.com/ipl-uw/2019-CVPR-AIC-Track-2-UWIPL)
-[Track3](https://github.com/ipl-uw/2019-CVPR-AIC-Track-3-UWIPL)
-
-
+## Track 4: Traffic Anomaly Detection
+* [Baidu-SYSU](https://github.com/PaddlePaddle/Research/tree/master/CV/AICity2020-Anomaly-Detection)
+* [USF](https://github.com/kevaldoshi17/NVIDIA_AICITY)
+* [CET](https://github.com/cetcvlab/AICity-2020-CETCVLAB)
+* [HCMUS](https://github.com/selab-hcmus/AI_City_2020)
