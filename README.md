@@ -19,7 +19,7 @@ The code from the top teams in the 2019 AI City Challenge (not in any paraticula
 [Track1 & Track2](https://github.com/yrims/AIC19)
 [Track3](https://github.com/jiayi-wei/NVIDIA-AICITY19-track3-anomaly-detection)
 
-* Team 113 UCMUS:
+* Team 113 HCMUS:
 [Track2](https://github.com/ngocminhbui/ai19_track2_hcmus)
 [Track3](https://github.com/tuanbi97/AICityChallenge)
 
